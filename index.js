@@ -20,6 +20,7 @@ function iLoveTheBeatles(num) {
   var array = []
   var count = num
   do {
+    count++
     array.push("I love the Beatles!")
   }
   while (count < 15)
